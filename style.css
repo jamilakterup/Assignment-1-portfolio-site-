@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .focus {
@@ -25,6 +26,7 @@
 
 h1 {
     font-size: 50px;
+    color: rgba(22, 21, 21, 0.852);
 }
 
 h2 {
@@ -83,7 +85,7 @@ span {
     width: 20%;
     padding: 0 20px;
     margin: 1%;
-    height: 43vh;
+    height: 60vh;
     border-radius: 18px;
 }
 
@@ -140,4 +142,9 @@ span {
     justify-content: center;
     align-items: center;
     color: white;
+}
+
+.illustrate {
+    width: 45%;
+    margin-top: 10px;
 }
